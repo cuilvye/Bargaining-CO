@@ -1,6 +1,5 @@
-# Deep Learning-Based Private Information Inference for Bilateral Bargaining 
+# Deep Learning-Based Private Information Inference for Alternating-Offer Bargaining 
 
-This repository is the specific implementations for the TNNLS journal manuscript, which is an extension version based on the  IJCAI 2023 paper.
 
 ## Requirements
 
